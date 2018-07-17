@@ -1,0 +1,68 @@
+.App-header {
+  background-color: #d8e8ec;
+  color: white;
+  max-width: 900px;
+}
+
+.title {
+  color: #003a51;
+  display: inline-block;
+}
+
+.padding {
+  padding: 30px 80px 30px 80px;
+}
+
+.logo {
+  width: 150px;
+}
+
+input, textarea {
+  border-radius: 5px !important;
+}
+
+.button {
+  color: #FFFFFF;
+  background-color: #003a51;
+  border-radius: 5px;
+  display: inline-block;
+  width: 150px;
+}
+
+.modal {
+  background-color: lightgray;
+}
+
+.post {
+  background-color: #f8f8f8;
+  max-height: 200px;
+  max-width: auto;
+}
+
+.post-image {
+  max-height: inherit;
+  max-width: 100%;
+}
+
+.post-summary {
+  max-height: inherit;
+  font-size: 13px;
+  overflow: hidden;
+}
+
+.post-buttons {
+  background-color: #003a51;
+  color: white;
+}
+
+.post-buttons:hover {
+  background-color: #016289;
+  cursor: hand;
+}
+
+
+.button-group {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
